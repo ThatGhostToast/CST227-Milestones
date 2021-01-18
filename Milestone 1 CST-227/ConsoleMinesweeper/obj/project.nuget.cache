@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "+OfGouc2dgXACXK8FCa2SNdrrAloTzqKSkP4uQPTuv3I2bQ8mpkXkYCZnEPfdvOKofpQ7zd7b/u5xdsHJwygOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marka\\source\\repos\\ConsoleMinesweeper\\ConsoleMinesweeper\\ConsoleMinesweeper.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marka\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\marka\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

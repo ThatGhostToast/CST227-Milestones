@@ -1,0 +1,9 @@
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\netstandard2.0\ConsoleMinesweeper.deps.json
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\netstandard2.0\ConsoleMinesweeper.dll
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\bin\Debug\netstandard2.0\ConsoleMinesweeper.pdb
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.csprojAssemblyReference.cache
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.csproj.CoreCompileInputs.cache
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.AssemblyInfoInputs.cache
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.AssemblyInfo.cs
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.dll
+C:\Users\marka\source\repos\ConsoleMinesweeper\ConsoleMinesweeper\obj\Debug\netstandard2.0\ConsoleMinesweeper.pdb
